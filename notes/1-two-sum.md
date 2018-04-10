@@ -32,17 +32,17 @@ class Solution {
 
             // if the map contains the key which is the current number
             if (complementMap.containsKey(nums[i])) {
-                
+
                 // return the corresponding value and current index
                 return new int[] {complementMap.get(nums[i]), i};
             }
             else {
-            
+
                 // if not, put the complement of the current number in the map
                 complementMap.put(target-nums[i], i);
             }
         }
-        
+
         // if there is no solution, return an empty array
         return new int[] {};
     }
@@ -50,6 +50,7 @@ class Solution {
 ```
 
 **Time Complexity:** $O(n)$
+
 **Space Complexity:** $O(n)$
 
 

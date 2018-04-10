@@ -42,12 +42,12 @@ class Solution {
         while (x != 0) {
 
             int newResult = result * 10 + x % 10;
-            
+
             // overflow case
             if ((newResult - x % 10) / 10 != result) {
                 return 0;
             }
-            
+
             result = newResult;
             x /= 10;
         }
@@ -65,6 +65,7 @@ class Solution {
 ```
 
 **Time Complexity:** $O(\log_{10}n)$
+
 **Space Complexity:** $O(1)$
 
 
