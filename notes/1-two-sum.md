@@ -2,6 +2,8 @@
 
 **[easy]**
 
+Link: [Two Sum](https://leetcode.com/problems/two-sum)
+
 ## Description
 
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
@@ -15,6 +17,18 @@ You may assume that each input would have ***exactly*** one solution, and you ma
  return [0, 1].
 
 ## Solutions
+
+### Python3 version
+
+```python
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        complement_index_map: Dict[int, int] = {}
+        for idx, num in enumerate(nums):
+            if num in complement_index_map:
+                return [complement_index_map[num], idx]
+            complement_index_map[target - num] = idx
+```
 
 ### Java version
 
