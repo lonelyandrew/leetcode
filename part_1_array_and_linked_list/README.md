@@ -19,8 +19,8 @@
 
 ## 习题解法
 
-| # | Title   | Level | Link                                                          | Code |
-|---|---------|-------|---------------------------------------------------------------|------|
-| 1 | Two Sum | Easy  | [Two Sum](https://leetcode.com/problems/two-sum/description/) |      |
+| # | Title   | Level | Link                                                          | Code                    |
+|---|---------|-------|---------------------------------------------------------------|-------------------------|
+| 1 | Two Sum | Easy  | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python3](1_two_sum.py) |
 
 
