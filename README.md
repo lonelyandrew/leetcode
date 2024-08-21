@@ -1,19 +1,18 @@
 # LeetCode Solutions
 
-
-| # | Title | Level | Note | Code                                                                                                   | Link  | Tag                  |
-| --- | --- | --- | --- |--------------------------------------------------------------------------------------------------------| --- |----------------------|
-| 1 | Two Sum | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/1-two-sum.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/1-two-sum)                     | [Two Sum](https://leetcode.com/problems/two-sum) | `Array`, `HashTable` |
-| 2 | Add Two Numbers | Medium | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/2-add-two-nums.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/2-add-two-nums)                        | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |                      |
-| 7 | Reverse Integer | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/7-reverse-int.md) | [note](https://github.com/lonelyandrew/leetcode/tree/master/src/7-reverse-int)                         | [Reverse Integer](https://leetcode.com/problems/reverse-integer) |                      |
-| 9 | Palindrome Number  | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/9-panlindrome-num.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/9-panlindrome-num)                     |[Palindrome Number](https://leetcode.com/problems/palindrome-number)|                      |
-| 13 | Roman to Integer | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/13-roman-to-int.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/13-roman-to-int)                       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) |                      |
-| 14 | Longest Common Prefix | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/14-longest-common-prefix.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/14-longest-common-prefix)              | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) |                      |
-| 20 | Valid Parentheses | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/20-valid-parentheses.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/20-valid-parentheses)                  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |                      |
-| 21 | Merge Two Sorted Lists | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/21-merge-two-sorted-lists.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/21-merge-two-sorted-lists)             | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |                      |
-| 24 | Swap Nodes in Pairs | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/24-swap-nodes-in-pairs.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/24-swap-nodes-in-pairs)                | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |                      |
-| 26 | Remove Duplicates from Sorted Array | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/26-remove-duplicates-from-sorted-array.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/26-remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/swap-nodes-in-pairs) |                      |
-| 27 | Remove Element | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/27-remove-element.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/27-remove-element)                     | [Remove Element](https://leetcode.com/problems/remove-element) |                      |
-| 28 | Implement `strStr()` | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/28-implement-strstr.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/28-implement-strstr)                   | [Implement `strStr()`](https://leetcode.com/problems/implement-strstr) |                      |
-| 35 | Search Insert Position | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/35-search-insert-position.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/35-search-insert-position)             | [Search Insert Position](https://leetcode.com/problems/search-insert-position) |                      |
-| 38 | Count and Say | Easy | [note](https://github.com/lonelyandrew/leetcode/blob/master/notes/38-count-and-say.md) | [code](https://github.com/lonelyandrew/leetcode/tree/master/src/38-count-and-say)                      | [Count and Say](https://leetcode.com/problems/count-and-say) |                      |
+- Part 1. [数组&链表]((part_1_array_and_linked_list/README.md))
+- Part 2. 堆栈&队列
+- Part 3. 优先队列
+- Part 4. 哈希表
+- Part 5. 树&二叉树&二叉搜索
+- Part 6. 二叉树遍历
+- Part 7. 递归&分治
+- Part 8. 贪心算法
+- Part 9. 广度优先搜索 & 深度优先搜索
+- Part 10. 二分查找
+- Part 11. 字典树
+- Part 12. 位运算
+- Part 13. 动态规划
+- Part 14. 并查集
+- Part 15. LRU Cache
+- Part 16. 布隆过滤器
