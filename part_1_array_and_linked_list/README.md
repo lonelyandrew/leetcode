@@ -22,5 +22,5 @@
 | # | Title   | Level | Link                                                          | Code |
 |---|---------|-------|---------------------------------------------------------------|------|
 | 1 | Two Sum | Easy  | [Two Sum](https://leetcode.com/problems/two-sum/description/) |      |
-|   |         |       |                                                               |      |
+
 

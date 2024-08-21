@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-- Part 1. [数组&链表]((part_1_array_and_linked_list/README.md))
+- Part 1. [数组&链表](part_1_array_and_linked_list/README.md)
 - Part 2. 堆栈&队列
 - Part 3. 优先队列
 - Part 4. 哈希表
