@@ -19,8 +19,9 @@
 
 ## 习题解法
 
-| # | Title   | Level | Link                                                          | Code                    |
-|---|---------|-------|---------------------------------------------------------------|-------------------------|
-| 1 | Two Sum | Easy  | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python3](1_two_sum.py) |
+| #   | Title               | Level | Link                                                                                  | Code                                     |
+|-----|---------------------|-------|---------------------------------------------------------------------------------------|------------------------------------------|
+| 1   | Two Sum             | Easy  | [Two Sum](https://leetcode.com/problems/two-sum/description/)                         | [Python3](1_two_sum.ipynb)               |
+| 206 | Reverse Linked List | Easy  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Python3](206_reverse_linked_list.ipynb) |
 
 
